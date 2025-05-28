@@ -11,7 +11,8 @@
 │   └── 📄files.csv
 ├── 📂forreadme
 │   └── 📄pictures.png
-└── 📄tbot_wind.py
+├── 📄tbot_wind.py
+└── 📄token.txt
 ```
 В examples хранятся тестовые файлы для проверки работы бота, в forreadme находится пара готовых роз.
 
